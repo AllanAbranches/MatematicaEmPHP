@@ -1,0 +1,48 @@
+.fundocalculo5
+{
+  background-color:rgb(0, 0, 0);
+  width: 400px;
+  height:300px;
+  margin-top: 200px;
+}
+
+.fundo5
+{
+    background-color: purple;
+}
+
+.botao5
+{
+background-color: black;
+color: white;
+width: 100px;
+margin-top: 30px;
+border-color:purple;
+border-top-width: 5px;
+border-right-width: 5px;
+border-bottom-width: 5px;
+border-left-width: 5px;
+
+}
+
+.caixa5
+{
+ margin-top: 20px;
+ color: honeydew;
+}
+.caixa6
+{
+ margin-top: 20px;
+ color: honeydew;
+}
+.caixa7
+{
+ margin-top: 10px;
+ color: honeydew;
+}
+
+.titulo5
+{
+    font-size: 25px;
+    color: purple;
+}

@@ -1,0 +1,41 @@
+body{
+    background-color	:#DCDCDC;
+  
+ }
+ 
+ h2{
+   margin-top: 10px;
+   margin-left: 40px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-style: italic;
+   color: darkcyan;
+ }
+ 
+ .bt{
+     background-color: grey; 
+     padding: 10px 30px; 
+     margin:0 10px;
+     margin-left: 20px;
+     font-style: italic;
+     font-weight: bolder;
+     font-size: small;
+     border-color: #363636;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     color: white;
+ }
+ 
+
+ 
+ input:hover{
+     border: 2px solid darkred;
+ }
+input:focus{
+    background-color: teal;
+}
+ 
+
+.raio{
+    font-size: 15px;
+
+}
+   

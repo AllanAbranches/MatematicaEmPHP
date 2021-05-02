@@ -1,0 +1,29 @@
+.fundocalculo2
+{
+  background-color:white;
+  width: 300px;
+  height:300px;
+  margin-top: 200px;
+}
+
+.fundo2
+{
+    background-color: black;
+}
+
+.botao2
+{
+background-color: black;
+color: white;
+margin-top: 60px;
+border-color:white;
+border-top-width: 5px;
+border-right-width: 5px;
+border-bottom-width: 5px;
+border-left-width: 5px;
+}
+
+.caixa2
+{
+  margin-top: 60px;
+}

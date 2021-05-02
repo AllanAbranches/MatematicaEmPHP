@@ -1,0 +1,36 @@
+.fundocalculo3
+{
+  background-color:gray;
+  width: 400px;
+  height:300px;
+  margin-top: 200px;
+}
+
+.fundo3
+{
+    background-color: black;
+}
+
+.botao3
+{
+background-color: black;
+color: white;
+width: 100px;
+margin-top: 60px;
+border-color:white;
+border-top-width: 5px;
+border-right-width: 5px;
+border-bottom-width: 5px;
+border-left-width: 5px;
+
+}
+
+.caixa3
+{
+ margin-top: 80px;
+}
+
+.titulo3
+{
+    font-size: 25px;
+}

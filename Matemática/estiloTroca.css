@@ -1,0 +1,38 @@
+.fundocalculo4
+{
+  background-color:rgb(0, 0, 0);
+  width: 400px;
+  height:300px;
+  margin-top: 200px;
+}
+
+.fundo4
+{
+    background-color: purple;
+}
+
+.botao4
+{
+background-color: black;
+color: white;
+width: 100px;
+margin-top: 80px;
+border-color:white;
+border-top-width: 5px;
+border-right-width: 5px;
+border-bottom-width: 5px;
+border-left-width: 5px;
+
+}
+
+.caixa4
+{
+ margin-top: 100px;
+ color: honeydew;
+}
+
+.titulo4
+{
+    font-size: 25px;
+    color: purple;
+}

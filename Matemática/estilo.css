@@ -1,0 +1,43 @@
+body{
+   background-image: url(fundoamarelo.jpg) ;
+ 
+}
+
+h2{
+  margin-top: 3px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
+  color:	#800000;
+}
+
+.bt{
+    background-color: burlywood; 
+    padding: 10px 30px; 
+    margin:0 10px;
+    display: inline-block;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: small;
+    border-color: khaki;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:	#800000; 
+}
+
+.metro{
+    background-color: wheat;
+    font-size: 20px;
+}
+
+input:hover{
+    border: 2px solid darkred;
+}
+input:focus{
+    background-color: burlywood;
+}
+
+.trena{
+    size: 50px;
+    float: left;
+
+}
+  

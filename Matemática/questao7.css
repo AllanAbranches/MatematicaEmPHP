@@ -1,0 +1,40 @@
+body{
+    background-color: lightsalmon;
+  
+ }
+ 
+ h2{
+   margin-top: 10px;
+   margin-left: 40px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-style: italic;
+   color: black;
+ }
+ 
+ .bt{
+     background-color: 	#F08080;
+     padding: 10px 30px; 
+     margin:0 10px;
+     margin-left: 20px;
+     font-style: italic;
+     font-weight: bolder;
+     font-size: small;
+     border-color: 	#F08080;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     color:white;
+ }
+ 
+
+ 
+ input:hover{
+     border: 2px solid 	#F08080;
+ }
+
+.raio{
+    font-size: 15px;
+
+}
+.value{
+    font-size: 15px;
+    border-color: #F08080;
+}
